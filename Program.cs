@@ -23,7 +23,6 @@ class Program
             {
                 writer.WriteLine(text);
             }
-            Console.WriteLine();
         }
     }
 }
